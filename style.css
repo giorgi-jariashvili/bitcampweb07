@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&family=Combo&family=Lora:ital,wght@1,600&family=Outfit:wght@300&display=swap');
+
+.mam{position: relative;background-color: #FFFFFF;width: 1440px;height: 1870px;overflow: hidden;}
+.box1{margin-left: 165px;display: flex;flex-direction: column;justify-content: flex-start;margin-top: 64px;position: absolute;z-index: 10;}
+.box1 img{width: 40px;height: 40px;margin-bottom: 152px;}
+.box1 h1{font-family: 'Barlow', sans-serif;
+    font-family: 'Big Shoulders Display', cursive;
+     font-size: 56px;line-height: 56px;font-weight: 900;font-style: normal;text-transform: uppercase;width: 445px;height: 112px;margin: 0px;color: #162542;}
+.box1 p{font-size: 18px;font-style: normal;font-weight: 500px;font-family: 'Barlow', sans-serif;
+line-height: 26px;color: #7B8BAD;width: 445px;height: 78px;margin-top: 24px;margin-bottom: 0px;}
+.box1 button{width: 175px;height: 58px;background-color: #F16718;border-radius: 8px;padding: 16px;color: #FFFFFF;font-size: 16px;line-height: 26px;font-style: normal;font-weight: 700;text-transform: uppercase;font-family: 'Barlow', sans-serif;border: none;margin-top: 40px;}
+.box1 span{color: #7B8BAD;font-size: 16px;font-family: 'Barlow', sans-serif;line-height: 26px;font-weight: 700;font-style: normal;margin-top: 56px;margin-left: 40px;display: inline-block;width: 127px;height: 26px;}
+.box2{width: 1326px;height: 746px;overflow: hidden;margin-top: 23.5px;margin-left: 558.5px;position: absolute;z-index: 9;}
+.box2 img{width: 540px;height: 480px;border-radius: 20px;margin-top: 172.5px;margin-left: 176.5px;margin-bottom: 93.5px;}
+.box2 button{background-color: #E8EFF2;border-radius: 8px;width: 175px;height: 58px;color: #162542;font-size: 16px;line-height: 26px;font-style: normal;font-weight: 700;text-transform: uppercase;font-family: 'Barlow', sans-serif;border: none;margin-left: 541.5px;margin-top: 31.5px;}
+.box2 div{background-color: #E8EFF2;border-radius: 20px;width: 255px;height: 240px;margin-top: 172.5px;overflow: hidden;display: inline-block;margin-left: 29px;margin-bottom: 333.5px;}
