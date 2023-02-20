@@ -143,7 +143,7 @@ main{display: flex;flex-direction: column;max-width: 375px;width: 100%;}
    .box3 .box303 img{height: 100%;}
    .box4{flex-direction: row;margin-top: 72px;justify-content: space-between;align-items: center;padding-left: 0px;padding-right: 40px;}
    .box4 h2{text-align: start;}
-   .box5{margin-top: 142px;padding-left: 0px;padding-right: 98px;display: grid;grid-template-columns: 1fr 1fr;column-gap: 69px;}
+   .box5{margin-top: 142px;padding-left: 0px;padding-right: 98px;display: grid;grid-template-columns: 50% 50%;column-gap: 69px;}
    .box5 .box501{display: flex;align-items: flex-start;}
    .box5 .box501 h3{text-align: start;}
    .box5 .box501 p{text-align: start;}
